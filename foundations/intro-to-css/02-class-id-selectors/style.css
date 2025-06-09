@@ -12,3 +12,9 @@
 .odd.third{
     font-size: 24px;
 }
+
+#id-2{
+    background-color: hsl(120, 79%, 68%);
+    font-size: 24px;
+    font-weight: bold;
+}
